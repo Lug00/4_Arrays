@@ -1,0 +1,158 @@
+﻿  4_Arreglos.cpp
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Array.h(18,1): warning C4267: 'inicializando': conversión de 'size_t' a 'uint32'; posible pérdida de datos
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(82,3): error C2760: error de sintaxis: "<id-expr>" no se esperaba aquí; se esperaba "declaración"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(88,2): message : Vea la referencia a la creación de una instancia de clase plantilla "GenericArray<T>" que se está compilando
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,26): error C2065: 'Entity': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,13): error C2923: 'GenericArray': 'Entity' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,26): message : vea la declaración de 'Entity'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,35): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,35): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(93,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(94,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(96,38): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,26): error C2065: 'Weapon': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,13): error C2923: 'GenericArray': 'Weapon' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,26): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,35): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,35): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(102,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(103,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(105,38): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,26): error C2065: 'Character': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,13): error C2923: 'GenericArray': 'Character' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,26): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,38): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,38): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(111,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(112,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(115,7): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(116,14): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,35): error C2039: "listContents": no es un miembro de "GenericArray<Entity>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): message : vea la declaración de 'GenericArray<Entity>'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(73,5): error C2065: 'GanericArray': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(73,19): error C2275: 'Character': se esperaba una expresión en lugar de un tipo
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(73,30): error C2065: 'characters': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(80,46): error C2589: ')': símbolo (token) no válido en el lado derecho de '::'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(80,46): error C2062: tipo 'unknown-type' inesperado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(83,5): error C2065: 'characters': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\4_Arreglos.cpp(85,5): error C2065: 'characters': identificador no declarado
+  Array.h
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Array.h(18,1): warning C4267: 'inicializando': conversión de 'size_t' a 'uint32'; posible pérdida de datos
+  Character.cpp
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2988: declaración o definición de plantilla irreconocible
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2143: error de sintaxis: falta ';' delante de '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C2182: 'GenericArray': este uso de 'void' no es válido
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C7525: las variables inline requieren al menos "/std:c++17"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2059: error de sintaxis: '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,35): error C2039: "listContents": no es un miembro de "`global namespace'"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(3,12): error C2955: 'Character': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(3,12): error C2027: uso del tipo 'Character' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(5,2): error C2065: 'karma': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(9,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(11,12): error C2955: 'Character': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(11,12): error C2027: uso del tipo 'Character' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(12,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(13,2): error C2065: 'karma': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(15,2): error C2065: 'name': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(16,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(18,17): error C2955: 'Character': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(18,17): error C2027: uso del tipo 'Character' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(18,24): error C2182: 'SetType': este uso de 'void' no es válido
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(18,25): error C2065: 'EChartype': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(18,35): error C2146: error de sintaxis: falta ')' delante del identificador '_type'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(19,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(19,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(23,24): error C2955: 'Character': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(23,24): error C2027: uso del tipo 'Character' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.h(6,17): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(25,6): error C2065: 'CharType': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(25,18): error C2653: 'EChartype': no es un nombre de clase o espacio de nombres
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(25,29): error C2065: 'npc': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(26,11): error C2065: 'CharType': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(26,23): error C2653: 'EChartype': no es un nombre de clase o espacio de nombres
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Character.cpp(26,34): error C2065: 'player': identificador no declarado
+  Entity.cpp
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2988: declaración o definición de plantilla irreconocible
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2143: error de sintaxis: falta ';' delante de '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C2182: 'GenericArray': este uso de 'void' no es válido
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C7525: las variables inline requieren al menos "/std:c++17"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2059: error de sintaxis: '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,35): error C2039: "listContents": no es un miembro de "`global namespace'"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+  GenericArray.cpp
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(82,3): error C2760: error de sintaxis: "<id-expr>" no se esperaba aquí; se esperaba "declaración"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(88,2): message : Vea la referencia a la creación de una instancia de clase plantilla "GenericArray<T>" que se está compilando
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,26): error C2065: 'Entity': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,13): error C2923: 'GenericArray': 'Entity' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,26): message : vea la declaración de 'Entity'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,35): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(92,35): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(93,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(94,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(96,38): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,26): error C2065: 'Weapon': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,13): error C2923: 'GenericArray': 'Weapon' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,26): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,35): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(101,35): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(102,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(103,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(105,38): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,26): error C2065: 'Character': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,13): error C2923: 'GenericArray': 'Character' no es un argumento de tipo plantilla válido para el parámetro 'T'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,26): message : vea la declaración de 'Character'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,38): error C2955: 'GenericArray': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(9,1): message : vea la declaración de 'GenericArray'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(110,38): error C2039: "listContents": no es un miembro de "GenericArray<T>"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(111,1): error C2912: especialización explícita; 'void listContents(void)' no es una especialización de una plantilla de función
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(112,22): error C2065: 'size': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(115,7): error C2065: 'array': identificador no declarado
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\GenericArray.h(116,14): error C2065: 'array': identificador no declarado
+  Weapon.cpp
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2988: declaración o definición de plantilla irreconocible
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2143: error de sintaxis: falta ';' delante de '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C2182: 'GenericArray': este uso de 'void' no es válido
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,13): error C7525: las variables inline requieren al menos "/std:c++17"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,25): error C2059: error de sintaxis: '<'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(18,35): error C2039: "listContents": no es un miembro de "`global namespace'"
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Entity.h(19,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(3,14): error C2955: 'Weapon': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(3,14): error C2027: uso del tipo 'Weapon' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(7,14): error C2955: 'Weapon': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(7,14): error C2027: uso del tipo 'Weapon' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(11,9): error C2955: 'Weapon': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(11,9): error C2027: uso del tipo 'Weapon' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(12,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(13,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(15,9): error C2955: 'Weapon': el uso de clase plantilla requiere una lista de argumentos de plantilla
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(15,9): error C2027: uso del tipo 'Weapon' sin definir
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.h(3,14): message : vea la declaración de 'Weapon'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(15,46): error C2061: error de sintaxis: identificador 'EType'
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(16,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Tercer Trimestre\Introducción a las Estructuras de Datos (Felipe Mandrujano GMZ)\4_Arrays\Project1\4_Arreglos\Weapon.cpp(17,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  Generando código...
